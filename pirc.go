@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"gitlab.com/patsak/gpircd/server"
+	"github.com/patsak/gpircd/server"
 )
 
 func main() {
